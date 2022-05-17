@@ -12,7 +12,7 @@ description:
 license:             BSD3
 license-file:        LICENSE
 author:              Jonas Duregard
-maintainer:          jonas.duregard@chalmers.se
+maintainer:          byorgey@gmail.com
 -- copyright:
 category:            Testing
 build-type:          Simple
@@ -21,7 +21,7 @@ cabal-version:       >=1.10
 
 source-repository head
   type:      git
-  location:  https://github.com/JonasDuregard/lazy-search
+  location:  https://github.com/size-based/lazy-search
 
 library
   exposed-modules:     Data.Coolean, Control.Search
